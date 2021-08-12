@@ -1,0 +1,29 @@
+.google {
+  display: flex;
+  align-items: center;
+  cursor: not-allowed;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.google span {
+  margin: 0 auto;
+}
+
+.demo {
+  display: flex;
+  align-items: center;  
+}
+
+.demo i{
+  font-size: 18px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.demo span {
+  margin: 0 auto;
+}

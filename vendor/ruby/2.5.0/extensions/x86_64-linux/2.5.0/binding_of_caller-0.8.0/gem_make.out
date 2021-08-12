@@ -1,0 +1,16 @@
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/home/nitin/.rbenv/versions/2.5.1/bin/ruby -I /home/nitin/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210805-29975-wgj5f4.rb extconf.rb
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make DESTDIR\= clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make DESTDIR\=
+echo "Nada."
+Nada.
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make DESTDIR\= install
+echo "Nada."
+Nada.

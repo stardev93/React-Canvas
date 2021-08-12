@@ -1,0 +1,15 @@
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/home/nitin/.rbenv/versions/2.5.1/bin/ruby -I /home/nitin/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210805-29975-p2fpwz.rb extconf.rb
+creating Makefile
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210805-29975-2lw1qz

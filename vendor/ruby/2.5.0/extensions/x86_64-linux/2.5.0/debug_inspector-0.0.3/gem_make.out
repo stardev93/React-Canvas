@@ -1,0 +1,15 @@
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/home/nitin/.rbenv/versions/2.5.1/bin/ruby -I /home/nitin/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210805-29975-9ltosu.rb extconf.rb
+creating Makefile
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make DESTDIR\= clean
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make DESTDIR\=
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20210805-29975-68kspe

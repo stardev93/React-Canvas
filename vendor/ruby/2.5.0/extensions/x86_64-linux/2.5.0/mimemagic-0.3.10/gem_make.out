@@ -1,0 +1,3 @@
+current directory: /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/mimemagic-0.3.10/ext/mimemagic
+/home/nitin/.rbenv/versions/2.5.1/bin/ruby -I/home/nitin/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -rrubygems /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/gems/rake-13.0.1/exe/rake RUBYARCHDIR\=/home/nitin/new/Gwaphics/vendor/ruby/2.5.0/extensions/x86_64-linux/2.5.0/mimemagic-0.3.10 RUBYLIBDIR\=/home/nitin/new/Gwaphics/vendor/ruby/2.5.0/extensions/x86_64-linux/2.5.0/mimemagic-0.3.10
+mkdir -p /home/nitin/new/Gwaphics/vendor/ruby/2.5.0/extensions/x86_64-linux/2.5.0/mimemagic-0.3.10/mimemagic
